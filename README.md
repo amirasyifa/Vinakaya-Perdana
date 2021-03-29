@@ -1,8 +1,4 @@
-# ActiveBox
 
-One Page Multi Purpose Website Template created by [Kamal Chaneman](http://kamalchaneman.com/)
-
-[Demo](http://kamalchaneman.com/activebox/)
 
 ## License
 
